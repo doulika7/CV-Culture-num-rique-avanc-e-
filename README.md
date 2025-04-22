@@ -17,7 +17,7 @@ Lien du site:
 #### Diplôme 
 
 - Baccalauréat scientifique  mention Bien au lycée Henri VI 
-- Licence Informatique à l'université Paris- Cité 
+- Licence Informatique à Sorbonne université  
 - Master Data Science à l'ENSEA Paris 
 - BAFA 
 - PSC1 
