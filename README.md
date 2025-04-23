@@ -1,42 +1,27 @@
-layout: cv
-title : Maria KELLO CV
----
-# Maria Kello  
-![Fille cv]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwk4hODDE6G5_hhHcrGTxOK25845N2jD_ogQ&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwk4hODDE6G5_hhHcrGTxOK25845N2jD_ogQ&s))  
-## Mon profil  
-Je m'appelle Maria KELLO, j'ai 35 ans et je suis Senior data scientist. La polyvalence de ce métier est un atout qui me permet de m’épanouir dans différent domaine . Mes compétences en informatique , en mathématique et en analyse des données sont mes atouts.
-Durant mon parcours j’ai appris à confectionner des modèles d’analyse et de recherche.
-Par exemple j’ai créé un site  en collaboration avec d'autre data scientist, qui couvre un large éventail de sujet lié à la data science : analytique , technologie ...
-Lien du site:
-[Data science](https://www.datasciencecentral.com/)
->Active et discipliné j'en fait<span style="background-color:#f5f518"> ma devise.</span>  
-  
-### Contact  
-  
-**Téléphone**: +33667788821  
-**Mail**:  [mariakello@gmail.com](mailto:mariakello@gmail.com)  
-**Adresse courriel** :  [1 Rue des Trois Frères, 75018, Paris](https://www.google.com/maps/search/1+Rue+des+Trois+Fr%C3%A8res,+75018,+Paris?entry=gmail&source=g)
-
-#### Diplôme 
-
-- Baccalauréat scientifique  mention Bien au lycée Henri VI 
-- Licence Informatique à Sorbonne université  
-- Master Data Science à l'ENSEA Paris 
-- BAFA 
-- PSC1 
-
-##### Expérience 
-| Date | Métier |Entreprise / Client | Lieu | Mission |
-|--------|---------|----|-------|------|
-|2023-2025|*Senior Data Scientist*|Doctolib |Paris |Projet : assistant médicale basé sur l'IA : développement de modèles NLP pour ==structurer les données médicales==, y compris les notes cliniques et ==les dossiers électroniques== de santé . Collaboration avec des professionnels de santé pour affiner des approches de **modélisations**. Déploiement d'algorithmes en production avec l'équipe de platorme ML. |
-|2021 -2023 |*Consultante Data Freelance*| Sephora, Wework, Havas |Paris |Accompagnement des entreprises dans la mise en place ==d'un business  plan== . Mise en conformité **RGPD** des bases de données clients.|
-|2020 2021| *Chargée de projet IA*| SNCF Réseau |Plaine Saint- Denis| Participation à un projet  de ==maintenance prédictive== sur les lignes ferroviaires. Développement d'un ==modèle d'analyse des vibrations des trains== en **Python**.|
-|2018 -2020| *Data Scientist* |L'Oréal |Clichy | Analyse des tendances consommateurs pour les lancements de produits . Traitement des avis clients via NLP . Proje pilote sur ==l'analyse d'image== pour prédire les profils beauté.| 
-|2015-2017 |*Data Analyst* | Orange Labs|Cergy |Analyse des ==flux du réseau mobiles== pour anticiper les flux |
-
-
-###### Compétence 
-- <span style="background-color:#5cdbca"> Machine learning algorithmes </span>   
--  <span style="background-color:#5cdbca">Modélisation statistique </span>  
-- <span style="background-color:#5cdbca">Langage : Python, HMT , Java </span>  
--  <span style="background-color:#5cdbca">Data Management</span>  
+# Documentation 
+L'élaboration de mon cv a été fait en plusieurs étape. 
+Tout d'abord **l'image** , je l'ai recherché sur internet et l'ai capturé. 
+Puis j'ai établi un plan de mon cv en six partie: Le nom de la personne , profil , contact , diplôme,  expérience et compétence. Pour mieux les réarchiser j'ai intégré la balise # en markdown. 
+1. Dans la partie profil j'ai intégré un lien en markdown : 
+[nom ](url)
+Une citation avec une balise html css : 
+Intégrer une citation en markdown il faut mettre : 
+la balise >un phrase ou un mot> 
+la balise hmtl je l'ai intégré a l'intérieur de la citation , dans le but d'ajouter de la couleur et du style . 
+2. La partie contact j'ai intégré différent élément en markdown :le **gras** : dans le téléphone , mail et adresse courriel.
+Afin de les mettre en avant
+-Le
+3. La partie sur le diplôme : J'ai choisi d'énuméré les diplome par la balise -.
+Par exemple :
+ - Baccalauréat scientifique mention Bien au lycée Henri IV
+ - Licence informatique à Sorbonne Université 
+    
+4. La partie sur l'experience :
+    J'ai décidé de faire un tableau afin de présenter clairement les idées. Je l'ai repartie en cinq parties : Date, Métier, Entreprise / Client , lieu et mission. Pour le mettre en place je l'ai fait en markdown :
+    |...|...|...|...|
+    |---|---|---|---|
+    |...|...|...|...|
+    Dans la section métiers je les ai écrit en *italique* pour question de style.
+    Dans la section mission j'ai intégré du **gras** et du ==surlignage== , pour mettre en avant des mots ou des expressions.
+5. La partie sur les compétences: 
+Tout comme le diplome j'ai énuméré avec la balise - et j'ai mis un élément css pour mettre de la couleur. 
