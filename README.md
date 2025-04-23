@@ -1,7 +1,9 @@
+layout: cv
+title: Maria KELLO CV
 # Maria Kello  
 ![Fille cv]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwk4hODDE6G5_hhHcrGTxOK25845N2jD_ogQ&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwk4hODDE6G5_hhHcrGTxOK25845N2jD_ogQ&s))  
 ## Mon profil  
-Je m'appelle Maria KELLO, j'ai 35ans et je suis Senior data scientist. La polyvalence de ce métier est un atout qui me permet de m’épanouir dans différent domaine . Mes compétences en informatique , en mathématique et en analyse des données sont mes atouts.
+Je m'appelle Maria KELLO, j'ai 35 ans et je suis Senior data scientist. La polyvalence de ce métier est un atout qui me permet de m’épanouir dans différent domaine . Mes compétences en informatique , en mathématique et en analyse des données sont mes atouts.
 Durant mon parcours j’ai appris à confectionner des modèles d’analyse et de recherche.
 Par exemple j’ai créé un site  en collaboration avec d'autre data scientist, qui couvre un large éventail de sujet lié à la data science : analytique , technologie ...
 Lien du site:
