@@ -27,7 +27,7 @@ J'ai décidé de créer un tableau afin de présenter clairement les information
    Dans la section _métiers_ je les ai écrits en *italique* pour une question de style.
     Dans la section _mission_ j'ai intégré du **gras** et du ==surlignage== , pour mettre en avant certains  mots ou expressions.
 6. La partie sur les compétences: 
-Tout comme la partie sur le diplôme j'ai utilisé la balise -  pour énumérer les éléments. J'ai également utilisé  un élément css pour mettre de la couleur.
+Tout comme la partie sur le diplôme j'ai utilisé la balise -  pour énumérer les éléments. J'ai également utilisé  un élément css pour mettre de la couleur et améliorer la lisibilité.
 
 Devoir : 
 
