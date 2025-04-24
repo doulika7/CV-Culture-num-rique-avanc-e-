@@ -1,6 +1,6 @@
 # Documentation 
 L'élaboration de mon cv s'est faite en plusieurs étapes. 
-Tout d'abord **l'image** , je l'ai recherché sur internet et  capturée. Sur git hub je suis passé par add file >"upload files> ajout de l'image dans le dépot > cliquer le lien > insérer à mon cv : ![texte alternatif]( lien url ) 
+Tout d'abord **l'image** , je l'ai recherché sur internet et  capturée. Sur git hub je suis passé par add file >"upload files> ajout de l'image dans le dépot > cliquer le lien > insérer à mon cv : ![texte alternatif]( lien url de l'image ) 
 Puis, j'ai établi un plan de mon cv en six parties: Le nom de la personne , profil , contact , diplôme,  expérience et compétence. Pour mieux les structurer j'ai utilisé  la balise # en markdown. 
 1. Dans la partie profil:
 J’ai souligner Senior Data Scientist avec la balise <ins>souligné</ins>.
