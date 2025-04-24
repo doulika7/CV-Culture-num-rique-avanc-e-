@@ -10,7 +10,7 @@ J'ai aussi ajouté une citation avec une balise html/css.Pour intégrer une cita
 la balise hmtl je l'ai insérée à l'intérieur de la citation , dans le but d'ajouter de la couleur et du style . 
 3. La partie contact: j'ai intégré différents éléments en markdown :
 -le **gras** : dans le téléphone , mail et adresse courriel,afin de les mettre en avant
--Le mail:(nom du mail)[mailto:nom du mail] ,pour diriger plus facilement les utilisateur vers la page du mail. 
+-Le mail:[nom du mail](mailto:nom du mail),pour diriger plus facilement les utilisateur vers la page du mail. 
 
 5. La partie sur le diplôme :
 J'ai choisi d'énuméré les diplômes par la balise -.
